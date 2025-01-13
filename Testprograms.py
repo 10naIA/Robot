@@ -1,4 +1,4 @@
-# Test programs for Oblig 1. Written in Python
+# Test programs for Robot-interpreter. Written in Python
 from Movements import Step
 from Robot import *
 from Enums import *
@@ -188,7 +188,7 @@ def oblig1(n):
         program6()
         print("\n")
     else:
-        print("USAGE: python Robot.py 1|2|3|4|5|6|7|all")
+        print("USAGE: python Robot.py 1|2|3|4|5|6|all")
 
 
 # Starts running when file is called from command line. Needs one argument
